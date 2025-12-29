@@ -115,6 +115,14 @@
       "end": "2025-12-31",
       "type": "wolne2",
       "color": "#1f77b4"
+    },
+    {
+      "id": "Szymon-placeholder3",
+      "title": "SL",
+      "start": "2026-01-02",
+      "end": "2026-01-02",
+      "type": "wolne3",
+      "color": "#1f77b4"
     }
   ],
 
