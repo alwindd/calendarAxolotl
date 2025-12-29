@@ -152,6 +152,14 @@
       "color": "#000080"
     },
     {
+      "id": "Wiktor-Urlop-NowyRok2026",
+      "title": "Wiktor-NowyRok",
+      "start": "2026-01-01",
+      "end": "2026-01-06",
+      "type": "Urlop",
+      "color": "#000080"
+    },
+    {
       "id": "Wiktor-Urlop-Studia",
       "title": "Wiktor-Urlop na Studia",
       "start": "2025-10-31",
