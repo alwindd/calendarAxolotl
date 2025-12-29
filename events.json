@@ -106,7 +106,7 @@
       "start": "2025-11-10",
       "end": "2025-11-10",
       "type": "wolne",
-      "color": "#e0d7ff"
+      "color": "#bfa8ff"
     },
     {
       "id": "Szymon-placeholder2",
@@ -114,7 +114,7 @@
       "start": "2025-12-31",
       "end": "2025-12-31",
       "type": "wolne2",
-      "color": "#e0d7ff"
+      "color": "#bfa8ff"
     },
     {
       "id": "Szymon-placeholder3",
@@ -122,7 +122,7 @@
       "start": "2026-01-02",
       "end": "2026-01-02",
       "type": "wolne3",
-      "color": "#e0d7ff"
+      "color": "#bfa8ff"
     }
   ],
 
