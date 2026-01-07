@@ -193,6 +193,14 @@
       "end": "2026-01-05",
       "type": "Urlop",
       "color": "#e48816"
+    },
+    {
+      "id": "Jan-Japonia",
+      "title": "Jan — urlop (Święta i Nowy Rok)",
+      "start": "2026-05-1",
+      "end": "2026-05-26",
+      "type": "Urlop",
+      "color": "#e48816"
     }
   ],
   "Piotr": [
