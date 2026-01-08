@@ -151,6 +151,14 @@
       "type": "Urlop",
       "color": "#000080"
     },
+        {
+      "id": "Wiktor-09-01",
+      "title": "Wiktor - urlop 09-01",
+      "start": "2026-01-09",
+      "end": "2026-01-09",
+      "type": "Urlop",
+      "color": "#000080"
+    },
     {
       "id": "Wiktor-Urlop-NowyRok2026",
       "title": "Wiktor-NowyRok",
