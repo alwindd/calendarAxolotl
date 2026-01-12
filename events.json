@@ -203,17 +203,9 @@
       "color": "#e48816"
     },
     {
-      "id": "Jan-test",
-      "title": "Jan — test",
-      "start": "2026-01-11",
-      "end": "2026-01-11",
-      "type": "Urlop",
-      "color": "#e48816"
-    },
-    {
       "id": "Jan-Japonia",
       "title": "Jan — Japonia",
-      "start": "2026-05-1",
+      "start": "2026-05-01",
       "end": "2026-05-26",
       "type": "Urlop",
       "color": "#e48816"
