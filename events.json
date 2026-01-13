@@ -66,6 +66,14 @@
       "end": "2026-01-06",
       "type": "Urlop",
       "color": "#1f77b4"
+    },
+    {
+      "id": "Tomek-wypoczynkowy ",
+      "title": "Tomek — brak danych",
+      "start": "2026-06-29",
+      "end": "2026-07-19",
+      "type": "Urlop",
+      "color": "#1f77b4"
     }
   ],
 
