@@ -160,6 +160,14 @@
       "end": "2026-09-04",
       "type": "Urlop",
       "color": "#000000"
+    },
+    {
+      "id": "Wiktoria",
+      "title": "Wiktoria",
+      "start": "2026-03-06",
+      "end": "2026-03-06",
+      "type": "Urlop",
+      "color": "#000000"
     }
   ], 
 
