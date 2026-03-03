@@ -273,6 +273,22 @@
       "end": "2026-01-19",
       "type": "Urlop",
       "color": "#e48816"
+    },
+    {
+      "id": "Jan-Urlop",
+      "title": "Jan — Urlop",
+      "start": "2026-11-12",
+      "end": "2026-11-13",
+      "type": "Urlop",
+      "color": "#e48816"
+    },
+    {
+      "id": "Jan-Urlop",
+      "title": "Jan — Urlop",
+      "start": "2026-12-21",
+      "end": "2026-12-31",
+      "type": "Urlop",
+      "color": "#e48816"
     }
   ],
   "Piotr": [
